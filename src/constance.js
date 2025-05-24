@@ -1,0 +1,1 @@
+export const DB_name="TravelBooking_Db"
